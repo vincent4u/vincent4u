@@ -2,7 +2,7 @@
 
 # Hi, I'm Vincent
 
-Data Scientist | Machine Learning Engineer
+Data Scientist | Machine Learning Engineer |
 MSc Artificial Intelligence, University of Essex, UK
 
 ---
