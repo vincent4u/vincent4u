@@ -151,15 +151,3 @@ Reduces development time and ensures consistent ML standards
 
 ---
 
----
-
-## What makes this strong
-
-* Flagship project clearly stands out with metrics
-* Strong alignment with both Data Scientist and ML Engineer roles
-* Uses impact language instead of generic descriptions
-* Shows systems thinking, which recruiters value highly
-
----
-
-If you want to go one step further, I can help you turn that fraud project into something that looks like **industry production work with deployment, API, and dashboard**.
