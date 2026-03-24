@@ -1,8 +1,3 @@
-Here is your **final, recruiter-optimized GitHub profile README**.
-It includes a standout flagship project, clear alignment for both Data Scientist and ML Engineer roles, and strong impact with metrics.
-
-You can copy and paste this directly.
-
 ---
 
 # Hi, I'm Vincent
