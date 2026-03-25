@@ -124,8 +124,7 @@ flowchart LR
 ---
 
 ## Featured Projects
-
-### Machine Learning Projects
+### Machine Learning Projects (Selected)
 
 #### Credit Card Fraud Detection System
 
@@ -142,20 +141,7 @@ Improved detection of rare fraud events while controlling false positives
 
 ---
 
-#### Credit Risk Modeling (Explainable ML)
 
-🔗 https://github.com/vincent4u/credit-risk-model
-
-Developed interpretable models for predicting probability of default.
-
-* Gradient boosting with logistic regression baseline
-* SHAP-based interpretability and calibration checks
-* Designed for transparent, decision-ready outputs
-
-**Impact:**
-Enables risk-informed decisions with explainable predictions
-
----
 
 #### V²PlantNet (Published Research)
 
@@ -187,20 +173,6 @@ Improves data reliability and prevents pipeline failures
 
 ---
 
-### ML Pipeline Template
-
-🔗 https://github.com/vincent4u/ml-pipeline-template
-
-Designed a modular and reusable template for building scalable machine learning workflows.
-
-* Structured pipeline for data ingestion, preprocessing, and model training
-* Integrated data validation and test coverage across stages
-* Built for reuse, extensibility, and consistent ML development practices
-
-**Impact:**
-Reduces development time and enforces reliable, production-oriented ML standards
-
----
 
 ### Frontend Projects (React)
 
@@ -216,36 +188,6 @@ Built a React-based dashboard for interacting with a machine learning fraud dete
 
 **Impact:**
 Demonstrates ability to connect ML systems with user-facing applications
-
----
-
-#### Data Visualization App
-
-🔗 https://github.com/vincent4u/data-visualization-app
-
-Developed a React application for exploring and visualizing datasets.
-
-* Interactive charts using Chart.js / Recharts
-* Dynamic filtering and data exploration
-* Clean and responsive UI design
-
-**Impact:**
-Enables intuitive understanding of complex data through visualization
-
----
-#### ML Insights Dashboard (React + API)
-
-🔗 https://github.com/vincent4u/ml-insights-dashboard
-![Dashboard Preview](https://placehold.co/800x400?text=ML+Dashboard+UI+Preview)
-Built a responsive dashboard for interacting with data-driven systems in real time.
-
-* Integrated API endpoints for dynamic data and predictions
-* Designed clean UI for input, results, and visualization
-* Implemented charts and risk indicators using Recharts
-* Structured reusable components for scalability
-
-**Impact:**
-Demonstrates ability to connect data systems with intuitive, user-facing interfaces
 
 ---
 
