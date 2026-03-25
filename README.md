@@ -172,7 +172,7 @@ flowchart LR
     C --> D[Feature Engineering]
     D --> E[Model Training]
     E --> F[Model Evaluation]
-    F --> G[Model API (FastAPI)]
+    F --> G[Model API/ FastAPI]
     G --> H[Prediction Output]
 ```
 
