@@ -1,6 +1,6 @@
 # Hi, I'm Vincent
 
-Data Scientist | Machine Learning Engineer | Frontend Developer (React)
+Data Scientist | Machine Learning Engineer | Frontend Developer (React)|
 MSc Artificial Intelligence, University of Essex, UK
 
 ---
@@ -28,14 +28,6 @@ My work focuses on designing reliable pipelines, ensuring data quality, and depl
 
 ---
 ## Skills
-
-### Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat\&logo=postgresql)
-
 ### Programming & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,9 +41,10 @@ My work focuses on designing reliable pipelines, ensuring data quality, and depl
 
 ### Machine Learning
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
 
 * Model training, evaluation, and optimization
 * Classification and anomaly detection
@@ -69,9 +62,9 @@ My work focuses on designing reliable pipelines, ensuring data quality, and depl
 
 ### Tools & Infrastructure
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoftazure)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 
 * API development (FastAPI)
 * Version control and testing
@@ -80,7 +73,7 @@ My work focuses on designing reliable pipelines, ensuring data quality, and depl
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 * Building user interfaces for data-driven applications
 
