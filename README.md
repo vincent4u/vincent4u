@@ -1,32 +1,32 @@
----
-
 # Hi, I'm Vincent
 
-Data Scientist | Machine Learning Engineer |
+Data Scientist | Machine Learning Engineer | Frontend Developer (React)
 MSc Artificial Intelligence, University of Essex, UK
 
 ---
 
 ## About Me
 
-I build production-ready machine learning systems and data-driven solutions.
-My work focuses on designing reliable pipelines, ensuring data quality, and deploying models that perform under real-world conditions.
+I build production-ready machine learning systems and data-driven applications, taking solutions from raw data to real-world use.
+My work focuses on designing reliable pipelines, ensuring data quality, and deploying models that perform under real-world conditions, alongside building intuitive user interfaces.
 
-* Focus: Machine learning, data systems, predictive modeling
-* Strengths: End-to-end pipelines, validation, reproducibility
+* Focus: Machine learning, data systems, predictive modeling, and full-stack applications
+* Strengths: End-to-end development, data validation, and reproducible workflows
+* Tech stack:Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, feature engineering, model training, ML pipelines, Docker, Azure, React
 * Based in Canada
 
 ---
 
+
 ## Core Expertise
 
-* End-to-end ML system design from raw data to evaluation
-* Data validation, schema enforcement, and pipeline reliability
-* Supervised learning, classification, and anomaly detection
-* Reproducible workflows with testing and version control
+* Design and build end-to-end machine learning systems from data ingestion to model evaluation
+* Implement data validation, schema enforcement, and robust pipeline reliability checks
+* Develop supervised learning models for classification and anomaly detection
+* Build reproducible and scalable ML workflows with testing, version control, and modular pipeline design
+
 
 ---
-
 ## Skills
 
 ### Programming & Data
@@ -36,11 +36,36 @@ My work focuses on designing reliable pipelines, ensuring data quality, and depl
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat\&logo=postgresql)
 
+### Programming & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
+
+* Data analysis, preprocessing, and feature engineering
+
+---
+
 ### Machine Learning
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat)
+
+* Model training, evaluation, and optimization
+* Classification and anomaly detection
+* Metrics: AUC, precision, recall
+
+---
+
+### Data Engineering & Pipelines
+
+* Data ingestion and preprocessing pipelines
+* Data validation (schema, range, label checks)
+* Workflow automation and reproducible pipelines
+
+---
 
 ### Tools & Infrastructure
 
@@ -48,33 +73,96 @@ My work focuses on designing reliable pipelines, ensuring data quality, and depl
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoftazure)
 
+* API development (FastAPI)
+* Version control and testing
+
+---
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react)
+
+* Building user interfaces for data-driven applications
+
 ---
 
 ## 🚀 Flagship Project
 
-### Credit Card Fraud Detection System
+### Credit Card Fraud Detection System (Production-Ready)
 
-🔗 [https://github.com/vincent4u/fraud-detection](https://github.com/vincent4u/fraud-detection)
+🔗 https://github.com/vincent4u/fraud-detection
 
-Designed and implemented a production-grade fraud detection pipeline using real-world transactional data.
+Designed and deployed an end-to-end fraud detection system with real-world ML engineering practices.
 
-**Key Contributions**
+---
 
-* Built a full pipeline from ingestion → validation → training → evaluation
-* Implemented schema checks, range validation, and automated data tests
-* Engineered features for imbalanced classification problems
-* Applied models including Logistic Regression and XGBoost
+### System Overview
 
-**Results**
+* Built a complete pipeline from raw data ingestion to model inference
+* Integrated data validation, feature engineering, model training, and prediction services
+* Designed for scalability, reproducibility, and real-time usage
+
+---
+
+### Architecture
+
+* **Data Layer:** Raw → processed datasets with schema and validation checks
+* **Model Layer:** Trained classification models (Logistic Regression, XGBoost)
+* **Service Layer:** REST API for real-time fraud prediction
+* **Deployment Layer:** Containerized with Docker for consistent environments
+
+---
+
+### Key Features
+
+* Automated data validation (schema, ranges, labels)
+* Time-based data splitting for realistic evaluation
+* Feature engineering for imbalanced datasets
+* REST API endpoint for live predictions
+* Modular and testable pipeline structure
+
+---
+
+### Results
 
 * Achieved **AUC: 0.98+** on validation data
-* Improved fraud detection recall while maintaining precision balance
-* Reduced false negatives in high-risk transactions
+* Improved fraud recall while maintaining precision balance
+* Reduced false negatives in high-risk transaction scenarios
 
-**Impact**
+---
 
-* Demonstrates strong capability in handling imbalanced datasets
-* Shows end-to-end ML system thinking, not just model training
+### Deployment
+
+* Built a REST API using FastAPI for real-time inference
+* Containerized application using Docker
+* Structured for deployment on cloud platforms (e.g., Azure)
+
+---
+
+### Example API Usage
+
+```bash
+POST /predict
+
+{
+  "time": 12345,
+  "amount": 250.0,
+  "features": [...]
+}
+```
+
+**Response**
+
+```json
+{
+  "fraud_probability": 0.92,
+  "prediction": 1
+}
+```
+
+---
+
+
 * Reflects production readiness with validation and testing layers
 
 ---
@@ -147,7 +235,7 @@ Reduces development time and ensures consistent ML standards
 ## Connect
 
 * LinkedIn: [https://www.linkedin.com/in/vincent-ugwah/](https://www.linkedin.com/in/vincent-ugwah/)
-* Email: [vincent.u@gmail.com](mailto:vincent.u@gmail.com)
+* Email: [vincent.ugwah@gmail.com](mailto:vincent.ugwah@gmail.com)
 
 ---
 
