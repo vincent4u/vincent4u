@@ -85,13 +85,13 @@ My work focuses on designing reliable pipelines, ensuring data quality, and depl
 
 🔗 https://github.com/vincent4u/fraud-detection
 
-Designed and deployed an end-to-end fraud detection system with real-world ML engineering practices.
+Designed and deployed an end-to-end fraud detection system, from raw transactional data to real-time prediction, using production-oriented ML engineering practices.
 
 ---
 
 ### System Overview
 
-* Built a complete pipeline from raw data ingestion to model inference
+* Built a complete pipeline from data ingestion to model inference
 * Integrated data validation, feature engineering, model training, and prediction services
 * Designed for scalability, reproducibility, and real-time usage
 
@@ -99,20 +99,20 @@ Designed and deployed an end-to-end fraud detection system with real-world ML en
 
 ### Architecture
 
-* **Data Layer:** Raw → processed datasets with schema and validation checks
-* **Model Layer:** Trained classification models (Logistic Regression, XGBoost)
+* **Data Layer:** Raw → processed datasets with schema validation and quality checks
+* **Model Layer:** Classification models (Logistic Regression, XGBoost)
 * **Service Layer:** REST API for real-time fraud prediction
-* **Deployment Layer:** Containerized with Docker for consistent environments
+* **Deployment Layer:** Docker-based containerization for consistent environments
 
 ---
 
 ### Key Features
 
-* Automated data validation (schema, ranges, labels)
+* Automated data validation (schema, range, and label checks)
 * Time-based data splitting for realistic evaluation
-* Feature engineering for imbalanced datasets
+* Feature engineering for imbalanced classification
 * REST API endpoint for live predictions
-* Modular and testable pipeline structure
+* Modular, testable, and extensible pipeline design
 
 ---
 
@@ -126,9 +126,9 @@ Designed and deployed an end-to-end fraud detection system with real-world ML en
 
 ### Deployment
 
-* Built a REST API using FastAPI for real-time inference
-* Containerized application using Docker
-* Structured for deployment on cloud platforms (e.g., Azure)
+* Built REST API using FastAPI for real-time inference
+* Containerized application with Docker
+* Structured for deployment on cloud platforms such as Azure
 
 ---
 
@@ -155,40 +155,101 @@ POST /predict
 
 ---
 
+### Impact
 
-* Reflects production readiness with validation and testing layers
+* Demonstrates ability to build end-to-end, production-ready ML systems
+* Highlights strong data validation and pipeline reliability practices
+* Reflects real-world ML engineering workflows from data to deployment
 
 ---
+### Architecture Diagram
+
+```mermaid
+flowchart LR
+    A[Raw Data] --> B[Data Processing]
+    B --> C[Validation Layer]
+    C --> D[Feature Engineering]
+    D --> E[Model Training]
+    E --> F[Model Evaluation]
+    F --> G[Model API (FastAPI)]
+    G --> H[Prediction Output]
+```
 
 ## Featured Projects
 
+### Credit Card Fraud Detection System
+
+🔗 https://github.com/vincent4u/fraud-detection
+
+Built a cost-sensitive machine learning system for fraud detection under extreme class imbalance.
+
+* XGBoost and Logistic Regression with threshold tuning
+* Precision–recall optimization and model calibration
+* End-to-end pipeline with validation and reproducibility
+
+**Impact:**
+Improved detection of rare fraud events while controlling false positives
+
+---
+
+### Credit Risk Modeling (Explainable ML)
+
+🔗 https://github.com/vincent4u/credit-risk-model
+
+Developed interpretable models for predicting probability of default.
+
+* Gradient boosting with logistic regression baseline
+* SHAP-based interpretability and calibration checks
+* Designed for transparent, decision-ready outputs
+
+**Impact:**
+Enables risk-informed decisions with explainable model predictions
+
+---
+
+### V²PlantNet (Published Research)
+
+🔗 https://github.com/vincent4u/v2plantnet
+
+Designed a lightweight CNN for multi-class plant disease classification.
+
+* Modified MobileNet architecture for efficiency
+* Achieved **98% test accuracy** with a **1.46MB model**
+* Applied structured validation and cross-validation
+
+**Impact:**
+Demonstrates efficient deep learning for resource-constrained environments
+
+---
+
 ### Data Validation Framework
 
-🔗 [https://github.com/vincent4u/data-validation](https://github.com/vincent4u/data-validation)
+🔗 https://github.com/vincent4u/data-validation
 
-Built a reusable framework for validating structured datasets.
+Built a reusable framework for validating structured datasets in ML pipelines.
 
-* Enforced schema consistency and required column checks
-* Implemented label validation and range constraints
-* Integrated automated tests into the pipeline
+* Schema enforcement and range checks
+* Label validation and pipeline safeguards
+* Integrated automated testing
 
 **Impact:**
 Improves data reliability and prevents silent pipeline failures
 
 ---
 
+
 ### ML Pipeline Template
 
-🔗 [https://github.com/vincent4u/ml-pipeline-template](https://github.com/vincent4u/ml-pipeline-template)
+🔗 https://github.com/vincent4u/ml-pipeline-template
 
-Developed a modular template for scalable ML workflows.
+Designed a modular and reusable template for building scalable machine learning workflows.
 
-* Structured pipeline for ingestion, preprocessing, and training
-* Integrated validation and test coverage
-* Designed for reuse across multiple projects
+* Structured pipeline for data ingestion, preprocessing, and model training
+* Integrated data validation and test coverage across stages
+* Built for reuse, extensibility, and consistent ML development practices
 
 **Impact:**
-Reduces development time and ensures consistent ML standards
+Reduces development time and enforces reliable, production-oriented ML standards
 
 ---
 
@@ -206,13 +267,19 @@ Reduces development time and ensures consistent ML standards
 
 * Build predictive models and extract insights from data
 * Apply statistical and machine learning techniques
-* Focus on model performance and evaluation metrics
+* Focus on model performance, evaluation metrics, and data-driven decision making
 
 ### As a Machine Learning Engineer
 
 * Design scalable and reliable ML pipelines
 * Ensure data quality, validation, and reproducibility
 * Deploy and maintain production-ready systems
+
+### As a Frontend Developer
+
+* Build responsive user interfaces using React
+* Integrate APIs and data-driven features into applications
+* Design intuitive interfaces for data visualization and user interaction
 
 ---
 
@@ -221,14 +288,15 @@ Reduces development time and ensures consistent ML standards
 * Machine learning systems and model optimization
 * Data engineering and pipeline design
 * Scalable ML infrastructure
-* Applied AI in real-world systems
+* Building user-facing applications powered by data
 
 ---
 
 ## Connect
 
-* LinkedIn: [https://www.linkedin.com/in/vincent-ugwah/](https://www.linkedin.com/in/vincent-ugwah/)
+* LinkedIn: https://www.linkedin.com/in/vincent-ugwah/
 * Email: [vincent.ugwah@gmail.com](mailto:vincent.ugwah@gmail.com)
+
 
 ---
 
