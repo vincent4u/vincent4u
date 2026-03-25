@@ -1,6 +1,7 @@
-# Hi, I'm Vincent
+# Vincent Nnamdi Ugwah
+Data Scientist | Machine Learning Engineer | Frontend Developer (React)  
 
-Data Scientist | Machine Learning Engineer | Frontend Developer (React)|
+Building production-ready ML systems and data-driven applications  
 MSc Artificial Intelligence, University of Essex, UK
 
 ---
