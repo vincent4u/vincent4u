@@ -178,7 +178,9 @@ flowchart LR
 
 ## Featured Projects
 
-### Credit Card Fraud Detection System
+### Machine Learning Projects
+
+#### Credit Card Fraud Detection System
 
 🔗 https://github.com/vincent4u/fraud-detection
 
@@ -193,7 +195,7 @@ Improved detection of rare fraud events while controlling false positives
 
 ---
 
-### Credit Risk Modeling (Explainable ML)
+#### Credit Risk Modeling (Explainable ML)
 
 🔗 https://github.com/vincent4u/credit-risk-model
 
@@ -204,11 +206,11 @@ Developed interpretable models for predicting probability of default.
 * Designed for transparent, decision-ready outputs
 
 **Impact:**
-Enables risk-informed decisions with explainable model predictions
+Enables risk-informed decisions with explainable predictions
 
 ---
 
-### V²PlantNet (Published Research)
+#### V²PlantNet (Published Research)
 
 🔗 https://github.com/vincent4u/v2plantnet
 
@@ -216,14 +218,14 @@ Designed a lightweight CNN for multi-class plant disease classification.
 
 * Modified MobileNet architecture for efficiency
 * Achieved **98% test accuracy** with a **1.46MB model**
-* Applied structured validation and cross-validation
+* Structured validation and cross-validation
 
 **Impact:**
-Demonstrates efficient deep learning for resource-constrained environments
+Demonstrates efficient deep learning under resource constraints
 
 ---
 
-### Data Validation Framework
+#### Data Validation Framework
 
 🔗 https://github.com/vincent4u/data-validation
 
@@ -234,10 +236,9 @@ Built a reusable framework for validating structured datasets in ML pipelines.
 * Integrated automated testing
 
 **Impact:**
-Improves data reliability and prevents silent pipeline failures
+Improves data reliability and prevents pipeline failures
 
 ---
-
 
 ### ML Pipeline Template
 
@@ -253,6 +254,87 @@ Designed a modular and reusable template for building scalable machine learning 
 Reduces development time and enforces reliable, production-oriented ML standards
 
 ---
+
+### Frontend Projects (React)
+
+#### ML Dashboard (Fraud Detection UI)
+
+🔗 https://github.com/vincent4u/fraud-dashboard
+
+Built a React-based dashboard for interacting with a machine learning fraud detection system.
+
+* Integrated FastAPI backend for real-time predictions
+* Designed responsive UI for input, results, and visualization
+* Displayed fraud probability, risk levels, and insights
+
+**Impact:**
+Demonstrates ability to connect ML systems with user-facing applications
+
+---
+
+#### Data Visualization App
+
+🔗 https://github.com/vincent4u/data-visualization-app
+
+Developed a React application for exploring and visualizing datasets.
+
+* Interactive charts using Chart.js / Recharts
+* Dynamic filtering and data exploration
+* Clean and responsive UI design
+
+**Impact:**
+Enables intuitive understanding of complex data through visualization
+
+---
+#### ML Insights Dashboard (React + API)
+
+🔗 https://github.com/vincent4u/ml-insights-dashboard
+![Dashboard Preview](https://placehold.co/800x400?text=ML+Dashboard+UI+Preview)
+Built a responsive dashboard for interacting with data-driven systems in real time.
+
+* Integrated API endpoints for dynamic data and predictions
+* Designed clean UI for input, results, and visualization
+* Implemented charts and risk indicators using Recharts
+* Structured reusable components for scalability
+
+**Impact:**
+Demonstrates ability to connect data systems with intuitive, user-facing interfaces
+
+---
+
+#### Task Management App (Interactive UI)
+
+🔗 https://github.com/vincent4u/task-manager-app
+
+Developed an interactive productivity application with dynamic state management.
+
+* Create, update, and delete tasks with real-time UI updates
+* Implemented component-based architecture and state handling
+* Added filtering, status tracking, and responsive layout
+* Integrated API layer for persistent data handling
+
+**Impact:**
+Showcases strong frontend fundamentals including state management and user interaction
+
+---
+
+#### Modern SaaS Landing Page (UI/UX Focus)
+
+🔗 https://github.com/vincent4u/saas-landing-page
+
+Designed and built a modern, responsive landing page with a focus on UI/UX.
+
+* Clean layout with structured sections and typography
+* Responsive design across mobile, tablet, and desktop
+* Added animations and transitions for improved user experience
+* Optimized for performance and visual clarity
+
+**Impact:**
+Highlights ability to build polished, production-quality interfaces with strong design principles
+
+---
+
+
 
 ## GitHub Stats
 
