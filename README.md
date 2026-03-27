@@ -221,12 +221,11 @@ Highlights ability to build polished, production-quality interfaces with strong 
 
 ---
 
-
+---
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent4u&layout=compact)
 
----
 ---
 
 ## Professional Focus
