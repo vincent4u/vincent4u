@@ -13,7 +13,7 @@ My work focuses on designing reliable pipelines, ensuring data quality, and depl
 
 * Focus: Machine learning, data systems, predictive modeling, and full-stack applications
 * Strengths: End-to-end development, data validation, and reproducible workflows
-* Tech stack:Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, feature engineering, model training, ML pipelines, Docker, Azure, React
+* Tech stack: Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, feature engineering, model training, ML pipelines, Docker, Azure, React
 * Based in Canada
 
 ---
@@ -41,8 +41,6 @@ My work focuses on designing reliable pipelines, ensuring data quality, and depl
 ---
 
 ### Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
@@ -125,24 +123,21 @@ flowchart LR
 
 ## Featured Projects
 ### Machine Learning Projects (Selected)
+---
+#### Credit Risk Modeling (Explainable ML)
 
-#### Credit Card Fraud Detection System
+🔗 https://github.com/vincent4u/credit-risk-model
 
-🔗 https://github.com/vincent4u/fraud-detection
+Developed interpretable models for predicting probability of default.
 
-Built a cost-sensitive machine learning system for fraud detection under extreme class imbalance.
-
-* XGBoost and Logistic Regression with threshold tuning
-* Precision–recall optimization and model calibration
-* End-to-end pipeline with validation and reproducibility
+* Gradient boosting with logistic regression baseline
+* SHAP-based interpretability and calibration checks
+* Designed for transparent, decision-ready outputs
 
 **Impact:**
-Improved detection of rare fraud events while controlling false positives
+Enables risk-informed decisions with explainable model predictions
 
 ---
-
-
-
 #### V²PlantNet (Published Research)
 
 🔗 https://github.com/vincent4u/v2plantnet
@@ -179,6 +174,9 @@ Improves data reliability and prevents pipeline failures
 #### ML Dashboard (Fraud Detection UI)
 
 🔗 https://github.com/vincent4u/fraud-dashboard
+
+**UI Preview:** 
+<img width="1536" height="1024" alt="ChatGPT Image Mar 27, 2026, 08_45_28 AM" src="https://github.com/user-attachments/assets/9d014948-dad8-4b88-8895-252455b60eab" />
 
 Built a React-based dashboard for interacting with a machine learning fraud detection system.
 
@@ -227,7 +225,7 @@ Highlights ability to build polished, production-quality interfaces with strong 
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vincent4u\&show_icons=true\&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=vincent4u&show_icons=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent4u\&layout=compact)
 
