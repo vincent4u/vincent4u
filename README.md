@@ -225,9 +225,9 @@ Highlights ability to build polished, production-quality interfaces with strong 
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vincent4u&show_icons=true&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=vincent4u\&show_icons=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent4u&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent4u\&layout=compact)
 
 ---
 
